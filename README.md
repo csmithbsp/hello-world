@@ -3,7 +3,7 @@ My first repository on this account
 
 # About me:
 ## Chris Smith 
-I am a millenial product tech guy who likes to create 3d models and world in my free time.
+I am a millenial product tech guy who likes to create 3d models and worlds in my free time.
 
 My Favorite quote right now: 
 
