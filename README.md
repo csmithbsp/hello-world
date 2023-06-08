@@ -3,7 +3,9 @@ My first repository on this account
 
 # About me:
 ## Chris Smith 
-I am a millenial product tech guy who likes to create 3d models and worlds in my free time.
+
+I work in product management, I enjoy building content management and video products and applications. 
+I also enjoy building 3d models and worlds in my free time.
 
 My Favorite quote right now: 
 
